@@ -1,0 +1,10 @@
+ **Loại lỗi**           **Mô tả**                                          
+
+ **SyntaxError**:        Lỗi cú pháp khi mã không đúng.                     
+ **IndexError** :        Truy cập chỉ mục không tồn tại trong list.         
+ **ValueError** :       Dữ liệu không hợp lệ cho phép toán.                
+ **TypeError**  :        Thực hiện phép toán với kiểu dữ liệu không hợp lệ. 
+ **ZeroDivisionError**:  Chia cho 0.                                        
+ **FileNotFoundError**:  Mở tệp không tồn tại.                              
+ **KeyError**:           Truy cập khóa không tồn tại trong dictionary.      
+ **AttributeError**:     Truy cập thuộc tính không tồn tại.                 

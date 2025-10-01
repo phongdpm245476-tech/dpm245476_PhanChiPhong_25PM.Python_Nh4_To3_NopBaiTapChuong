@@ -1,0 +1,6 @@
+Cách nhập
+input():	            Nhập dữ liệu từ người dùng dưới dạng chuỗi.	
+input() với split():	Nhập nhiều giá trị và phân tách chúng.	
+sys.stdin.read():   	Đọc dữ liệu từ bàn phím cho đến khi kết thúc.	
+eval(): 	            Chạy biểu thức Python từ chuỗi người dùng nhập vào.	
+argparse:	            Nhập dữ liệu qua tham số dòng lệnh (command-line).

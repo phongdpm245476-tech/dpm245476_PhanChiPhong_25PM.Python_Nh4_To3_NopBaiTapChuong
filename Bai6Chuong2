@@ -1,0 +1,9 @@
+| **Toán tử** | **Ý nghĩa**                                      
+
+| `/`         | Chia thông thường, trả về kết quả kiểu `float`.    
+| `//`        | Chia lấy phần nguyên, trả về số nguyên.            
+| `%`         | Chia lấy dư.                                       
+| `**`        | Lũy thừa.                                          
+| `and`       | Phép AND logic.                                    
+| `or`        | Phép OR logic.                                     
+| `is`        | Kiểm tra nếu hai đối tượng có cùng địa chỉ bộ nhớ. 
