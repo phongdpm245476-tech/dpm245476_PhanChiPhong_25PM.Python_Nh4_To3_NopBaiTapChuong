@@ -1,0 +1,5 @@
+Ghi chú đơn dòng: Dùng dấu #.
+
+Ghi chú nhiều dòng: Dùng dấu ''' hoặc """.
+
+Docstring: Dùng dấu ''' hoặc """ để mô tả về hàm, lớp, hoặc mô-đun.

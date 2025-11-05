@@ -1,0 +1,9 @@
+Kiểu dữ liệu	
+int	: Số nguyên, không có phần thập phân.	
+float:	Số thực, có phần thập phân.
+str :	Chuỗi ký tự.	
+bool:	Giá trị logic, chỉ có hai giá trị: True hoặc False.	True, False
+list:	Danh sách, có thể thay đổi và chứa các phần tử có kiểu dữ liệu khác nhau.	
+tuple:	Tuple, bất biến (immutable), giống như list nhưng không thể thay đổi.	
+dict:	Từ điển, chứa các cặp khóa-giá trị, mỗi khóa duy nhất.	
+set	 :   Tập hợp, không có thứ tự và không chứa phần tử trùng lặp.
